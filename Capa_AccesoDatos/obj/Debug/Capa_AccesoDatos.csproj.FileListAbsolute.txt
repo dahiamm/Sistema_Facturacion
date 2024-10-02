@@ -1,0 +1,6 @@
+C:\Users\dahia\source\repos\Facturacion_Multicapas\Capa_AccesoDatos\bin\Debug\Capa_AccesoDatos.dll
+C:\Users\dahia\source\repos\Facturacion_Multicapas\Capa_AccesoDatos\bin\Debug\Capa_AccesoDatos.pdb
+C:\Users\dahia\source\repos\Facturacion_Multicapas\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\dahia\source\repos\Facturacion_Multicapas\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\dahia\source\repos\Facturacion_Multicapas\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.dll
+C:\Users\dahia\source\repos\Facturacion_Multicapas\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.pdb

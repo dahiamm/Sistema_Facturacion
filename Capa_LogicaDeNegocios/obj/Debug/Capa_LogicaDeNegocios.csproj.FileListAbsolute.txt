@@ -1,0 +1,9 @@
+C:\Users\dahia\source\repos\Facturacion_Multicapas\Capa_LogicaDeNegocios\bin\Debug\Capa_LogicaDeNegocios.dll
+C:\Users\dahia\source\repos\Facturacion_Multicapas\Capa_LogicaDeNegocios\bin\Debug\Capa_LogicaDeNegocios.pdb
+C:\Users\dahia\source\repos\Facturacion_Multicapas\Capa_LogicaDeNegocios\bin\Debug\Capa_AccesoDatos.dll
+C:\Users\dahia\source\repos\Facturacion_Multicapas\Capa_LogicaDeNegocios\bin\Debug\Capa_AccesoDatos.pdb
+C:\Users\dahia\source\repos\Facturacion_Multicapas\Capa_LogicaDeNegocios\obj\Debug\Capa_LogicaDeNegocios.csproj.AssemblyReference.cache
+C:\Users\dahia\source\repos\Facturacion_Multicapas\Capa_LogicaDeNegocios\obj\Debug\Capa_LogicaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\dahia\source\repos\Facturacion_Multicapas\Capa_LogicaDeNegocios\obj\Debug\Capa_LogicaDeNegocios.csproj.CopyComplete
+C:\Users\dahia\source\repos\Facturacion_Multicapas\Capa_LogicaDeNegocios\obj\Debug\Capa_LogicaDeNegocios.dll
+C:\Users\dahia\source\repos\Facturacion_Multicapas\Capa_LogicaDeNegocios\obj\Debug\Capa_LogicaDeNegocios.pdb
